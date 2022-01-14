@@ -1,0 +1,23 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+main {
+  z-index: 0;
+  padding: 100px 0;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 50px;
+} */
+
+.App {
+  position: relative;
+}

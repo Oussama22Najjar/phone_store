@@ -1,0 +1,13 @@
+.admin-btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+div.card-body {
+  padding: 0;
+}
+
+.phone-li:hover {
+  background-color: #555;
+  text-decoration: none;
+}
